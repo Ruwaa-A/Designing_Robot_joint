@@ -1,4 +1,10 @@
 # Designing a Robot joint
+The purpose of this project is to design a robot joint to allow easier movement. 
+
+
+## Design Choices:
+The length of each side is 10 inch. With the ground base at 60 inch.
+The depth of the inner base is 20 in. 
 
 
 ## Oneshape link:
